@@ -7,3 +7,8 @@ def largest(a,b,c):
         print(c)
 
 largest(17,18,30)
+
+a=13
+b=23
+c=a+b
+print(c)
